@@ -1,5 +1,8 @@
 # NHL Win Probability Model (Demo Version)
 
+> This repository contains a simplified public demo of a larger forecasting engine. 
+> The production version includes additional modeling layers and calibration workflows.
+
 A modular NHL game simulation engine built in Python that converts team-level expected goal rates into probabilistic win and scoring projections.
 
 This public repository contains a sanitized demo version of the forecasting engine. Optional production modules (rest adjustments, goalie modifiers, pace factors, injury adjustments) are not required for the demo and default to neutral values if absent.
